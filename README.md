@@ -1,7 +1,7 @@
 ##CA1 -CLOUD COMPUTING ASSIGNMENT
 
-##Student Name     : Thomaskutty Joseph
-##Student Number : 10640353
+## Student Name     : Thomaskutty Joseph
+## Student Number : 10640353
 Lecturer Name    : Paul laird
 Module Name     : Cloud technologies for Business
 Module code       : B9MG119
