@@ -56,7 +56,7 @@ Microsoft Azure Essentials-Fundamentals of Azure. Michael collier, Robin shahan.
 
 performance evaluation for deploying docker containers on baremetal and virtual machine. Ashish Lingayat, Ranjana R Badre, Anil Kumar Gupta. https://ieeexplore.ieee.org/abstract/document/8723998/
 
-GitHub link:
+
 
 
 
